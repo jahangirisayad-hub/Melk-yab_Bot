@@ -1,3 +1,2 @@
 print("Melkyab Bot is starting...")
-print("ربات ملک‌یاب آماده است!")
-
+print("ربات ملک‌یاب آماده است!"
